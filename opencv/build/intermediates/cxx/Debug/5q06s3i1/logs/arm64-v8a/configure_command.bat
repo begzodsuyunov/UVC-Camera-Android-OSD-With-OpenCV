@@ -1,0 +1,19 @@
+@echo off
+"D:\\WORK\\MIRU\\Sdk\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe" ^
+  "-HD:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=21" ^
+  "-DANDROID_PLATFORM=android-21" ^
+  "-DANDROID_ABI=arm64-v8a" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a" ^
+  "-DANDROID_NDK=D:\\WORK\\MIRU\\Sdk\\Sdk\\ndk\\23.1.7779620" ^
+  "-DCMAKE_ANDROID_NDK=D:\\WORK\\MIRU\\Sdk\\Sdk\\ndk\\23.1.7779620" ^
+  "-DCMAKE_TOOLCHAIN_FILE=D:\\WORK\\MIRU\\Sdk\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=D:\\WORK\\MIRU\\Sdk\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\build\\intermediates\\cxx\\Debug\\5q06s3i1\\obj\\arm64-v8a" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\build\\intermediates\\cxx\\Debug\\5q06s3i1\\obj\\arm64-v8a" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BD:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\arm64-v8a" ^
+  -GNinja ^
+  "-DANDROID_STL=c++_shared"

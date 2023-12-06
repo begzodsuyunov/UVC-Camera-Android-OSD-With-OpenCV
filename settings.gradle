@@ -1,0 +1,4 @@
+include ':app'
+include ':libuvccam'
+include ':opencv'
+//project(':opencv').projectDir = new File(opencvsdk + '/sdk')

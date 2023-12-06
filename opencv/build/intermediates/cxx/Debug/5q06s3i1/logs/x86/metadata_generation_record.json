@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1268614568
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\x86\\android_gradle_build.json due to:",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1607733679
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1440722561
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -664761603
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1192515060
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\x86\u0027",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1907510225
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"D:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5q06s3i1\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5q06s3i1\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\.cxx\\\\Debug\\\\5q06s3i1\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -39644772
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"D:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\WORK\\\\MIRU\\\\Sdk\\\\Sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5q06s3i1\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5q06s3i1\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BD:\\\\WORK\\\\MIRU\\\\week3\\\\dualcambek\\\\opencv\\\\.cxx\\\\Debug\\\\5q06s3i1\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1253257381
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\x86\\compile_commands.json.bin normally",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1968973029
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 880168809
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\.cxx\\Debug\\5q06s3i1\\x86\\metadata_generation_command.txt",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 565712347
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\WORK\\MIRU\\week3\\dualcambek\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1476725403
+  }
+]

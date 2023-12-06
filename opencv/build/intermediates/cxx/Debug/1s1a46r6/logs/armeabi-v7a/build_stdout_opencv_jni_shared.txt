@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\2nd_Probation\week1\dualcambek\dualcambek\opencv\.cxx\Debug\1s1a46r6\armeabi-v7a'
+ninja: no work to do.
